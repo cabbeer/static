@@ -11,7 +11,7 @@
    - Jest
    - Story Book
   
-  - What's included
+- What's included
   
 </details>
 
