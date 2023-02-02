@@ -4,7 +4,8 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-- Setup
+
+  - Setup
   
 - Testing
    - Jest
