@@ -55,13 +55,6 @@ This application also includes a Storybook visual testbed. You can run Storybook
 This will start a local server, and the Storybook interface will be accessible at http://localhost:6006/.
 
 
-
-## Contributing
-If you're interested in contributing to this project, please review the contributing guidelines.
-
-
-
-
 ## What's Included:
 ```
 ├── README.md (you are here!)
