@@ -5,9 +5,13 @@
 <details>
   <summary>Table of Contents</summary>
 1. Setup
+  
 2. Testing
+  
   2.1 Jest
+  
   2.2 Story Book
+  
 </details>
 
 
