@@ -23,31 +23,26 @@ npm start
 ```
 This will start the webpack development server, and the application will be accessible at http://localhost:8000/.
 
-### Testing
-This application includes a test suite built with Jest and Storybook and Cypress. To run the tests, use the following command:
+## Testing
+
+### This application includes a test suite built with Jest and Storybook and Cypress. To run the tests, use the following command:
 
 > npm test
 
 This will execute all tests and display the results in the console.
 
-#### Storybook
+### Storybook
 This application also includes a Storybook visual testbed. You can run Storybook by using the following command:
 
 > npm run storybook
 
 This will start a local server, and the Storybook interface will be accessible at http://localhost:6006/.
 
-Built With
-React.js
-Webpack
-Jest
-Enzyme
-Storybook
-Contributing
+
+
+## Contributing
 If you're interested in contributing to this project, please review the contributing guidelines.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
@@ -60,10 +55,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ├── package-lock.json
 ├── package.json
 ├── public
-│   ├── favicon.ico
-│   ├── images
-│   ├── index.html
-│   └── manifest.json
 ├── src
 │   ├── components
 │   │   ├── Application.js
@@ -88,28 +79,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 │   │   ├── InterviewerListItem.js
 │   │   ├── InterviewerListItem.scss
 │   │   └── __tests__
-│   │       ├── Application.test.js
-│   │       ├── Appointment.test.js
-│   │       ├── Button.test.js
-│   │       ├── DayListItem.test.js
-│   │       └── Form.test.js
 │   ├── helpers
-│   │   ├── selectors.js
-│   │   └── selectors.test.js
 │   ├── hooks
-│   │   ├── __tests__
-│   │   │   └── useVisualMode.test.js
-│   │   ├── useApplicationData.js
-│   │   └── useVisualMode.js
 │   ├── index.js
 │   ├── index.scss
 │   ├── setupTests.js
 │   └── styles
-│       ├── animations.scss
-│       ├── mixins.scss
-│       ├── reset.scss
-│       ├── typography.scss
-│       └── variables.scss
 └── stories
     └── index.js
 ```
