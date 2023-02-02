@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Setup">Setup</a>
+      <a href="readme.md#setup">Setup</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
