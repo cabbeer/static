@@ -4,7 +4,10 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
- - Setup
+1. Setup
+2. Testing
+  2.1 Jest
+  2.2 Story Book
 </details>
 
 
