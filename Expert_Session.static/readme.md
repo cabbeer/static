@@ -1,4 +1,4 @@
-# Expert Session  <sup>is A</sup> minimal **Interview Scheduler**
+# Expert Session Is A Minimal **Interview Scheduler**
 ### This application allows users to schedule and manage interviews with ease.
 
 <!-- TABLE OF CONTENTS -->
