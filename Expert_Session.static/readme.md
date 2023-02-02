@@ -6,7 +6,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#setup">Setup</a>
+      <a href="#Setup">Setup</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
