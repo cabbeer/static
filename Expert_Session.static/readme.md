@@ -15,7 +15,7 @@
   
 </details>
 
-https://media3.giphy.com/media/j3FaHoqQAELTXKRJ2M/giphy.gif?cid=790b761138513895bac28b944c667448bcca740b32bd1d60&rid=giphy.gif&ct=g
+![](https://media3.giphy.com/media/j3FaHoqQAELTXKRJ2M/giphy.gif?cid=790b761138513895bac28b944c667448bcca740b32bd1d60&rid=giphy.gif&ct=g)
 
 ## Setup
 ### To get started, please follow these steps:
